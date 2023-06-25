@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: d150e122dabc11b49886b866d9fa1d9c
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Akuoumaru.001
+    second: {fileID: 2100000, guid: 1c1521ca783e690478d7fb1c7c8b5bf0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Alley Hunter
+    second: {fileID: 2100000, guid: aab7aa833bb1b5747b89912d3294f2d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Amenoma Kageuchi
+    second: {fileID: 2100000, guid: f14c1430f7428c444b1bbca3b023d267, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Amos' bow
+    second: {fileID: 2100000, guid: 82f76cb67db635a459648952a57f60bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Appease.001
+    second: {fileID: 2100000, guid: 730a7451cbfdac3428817e5b8c138fe3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aquila Favonia
+    second: {fileID: 2100000, guid: 2faedf5180c1df64d8ea0433e35aa9a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bakufu
+    second: {fileID: 2100000, guid: 8cbdaa2483d5d3e47ba44c299c8a2d41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bakufu.001
+    second: {fileID: 2100000, guid: ba27248c19ecca94f96f65b4d6871168, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Beginner's Protector
+    second: {fileID: 2100000, guid: 4b22e8a8516f949459b7c9ef257c314c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black Tassel
+    second: {fileID: 2100000, guid: 4b67d91109034cd43a8ccf964f33b4e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blackcliff Longsword
+    second: {fileID: 2100000, guid: 3ac8d0d22837c4248b54a95a5dfa870f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blackcliff Pole
+    second: {fileID: 2100000, guid: 327f4c2c23a67f24884bf028e1433a51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blackcliff Slasher.001
+    second: {fileID: 2100000, guid: 494a095256163134bb977c2ca6f35bcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blackcliff Warbow
+    second: {fileID: 2100000, guid: ccde034fb2fcbf94eb1cef29c7052049, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bloodtainted Greatsword.001
+    second: {fileID: 2100000, guid: 417e3dc075c0bed4b986b4ba0fb16ae6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bloodtainted Greatsword.002
+    second: {fileID: 2100000, guid: 015e2d0dfa12f6241ad0a57c5cb5eb45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boreas
+    second: {fileID: 2100000, guid: 92fb7dc589552bb44a5ee057a7a11cbf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cinnabar Spindle
+    second: {fileID: 2100000, guid: e1284dea4a9ee6c40bbce49d75961bc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Compound Bow
+    second: {fileID: 2100000, guid: 57238f905d20ec643b4d3991cfc6b033, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cool Steel
+    second: {fileID: 2100000, guid: b1c088f1de515274db8aa703e0be71b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Crescent Pike
+    second: {fileID: 2100000, guid: 07283d10ed24f774f9803ccedcbbc6f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark Iron Sword
+    second: {fileID: 2100000, guid: a3c1ca290a775a54abcee00f1009f37a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Deathmatch
+    second: {fileID: 2100000, guid: 8f7fac2a59ff59e4f8e99590fcc2d9d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Debate Club.001
+    second: {fileID: 2100000, guid: 036bd4695fad5cf41b050396ff34161c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dragon's Bane
+    second: {fileID: 2100000, guid: 054b243c911285641bedfe5eebca6e98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dragonspine Spear
+    second: {fileID: 2100000, guid: 420af145702e8d0429305dada29bfd54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dull Blade
+    second: {fileID: 2100000, guid: 20764d064c489d7419a0e3f2dd1aaae9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ebony Bow
+    second: {fileID: 2100000, guid: 47ea62720438aac42a66c10a448c0d46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Elegy for the End
+    second: {fileID: 2100000, guid: 23d802587091f0b459b1a868d94844e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Engulfing Lightning
+    second: {fileID: 2100000, guid: 56ea60296a985e04ab8bf746a1e3cf75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Favonius Greatsword.001
+    second: {fileID: 2100000, guid: 10a36f4024d9cb44bb473a535d0f6fd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Favonius Lance
+    second: {fileID: 2100000, guid: 5559698bc3194bf42849c3eb4cb7b2ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Favonius Sword
+    second: {fileID: 2100000, guid: 979b892b800cfa346a55a3c17d7661df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Favonius Warbow
+    second: {fileID: 2100000, guid: 7b92077e7494c7149a08ab3ec460ddf3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ferrous Shadow.001
+    second: {fileID: 2100000, guid: 515a008e50da05d418f658783c8806f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Festering Desire
+    second: {fileID: 2100000, guid: c063d22e988652141afc8093f72d0fe8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fillet Blade
+    second: {fileID: 2100000, guid: 233dcad45b79e654dae758aaecce96c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Freedom-Sworn
+    second: {fileID: 2100000, guid: 878d74b10546c1342ae86e34c2b21da2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Halberd
+    second: {fileID: 2100000, guid: 2d7f31cf7d2d73145afb8a810361bc40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hamayumi
+    second: {fileID: 2100000, guid: 17086ae260bef6c4b85bc71d00d29147, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Harbinger of Dawn
+    second: {fileID: 2100000, guid: 2ef5252f9c4f2f4479286cdf0b0ddc56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hunter's Bow
+    second: {fileID: 2100000, guid: 48d940d0c707c204990335602d85ad82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Iron Point
+    second: {fileID: 2100000, guid: 9785d3fbae64bd3448a4806ff2515d8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Iron Sting
+    second: {fileID: 2100000, guid: 886e4688d1990d74ca9d949fba2f6c52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Katana
+    second: {fileID: 2100000, guid: ba878273c84d1f244bf541d8dee9979c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Katsuragikiri Nagamasa.001
+    second: {fileID: 2100000, guid: aed9cc02a6247974e9311a518f66d64e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kitain Cross Spear
+    second: {fileID: 2100000, guid: 3c67f3dfeaa676b4da3da560eaeff3d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kunwu
+    second: {fileID: 2100000, guid: 59dcbc924f8b2a548bcd88cffa44e650, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kunwu's Iris Rift
+    second: {fileID: 2100000, guid: d5fa391398fffbc4789a0ff52dc8d804, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lion's Roar
+    second: {fileID: 2100000, guid: 620127191fd0d79438276324fac2f16b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lithic Blade.001
+    second: {fileID: 2100000, guid: 64590b88fe7dce648a9b4b44c97c643d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lithic Spear
+    second: {fileID: 2100000, guid: 2c95befcb40f6db43989843f8bc7a98f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Luxurious Sea-Lord.001
+    second: {fileID: 2100000, guid: b97bf4cc511873742a2ebec7774b1e88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Messenger
+    second: {fileID: 2100000, guid: 2d8696341935e554bba7db4f00dbc2f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mistsplitter Reforged
+    second: {fileID: 2100000, guid: 1fb4a9bfc82545345b8c6f13f7c46d59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mitternachts Waltz
+    second: {fileID: 2100000, guid: d102069886ffdae4ea3420252f97f5b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mitternachts Waltz.001
+    second: {fileID: 2100000, guid: 6cd90d7c9cecd56448b17ffb1b1c6bd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Moonfall
+    second: {fileID: 2100000, guid: 297a95c44b3fdab48a0862bfb3b3e440, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Morax
+    second: {fileID: 2100000, guid: e224fface40f35843952adcbe2975b87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Morax.001
+    second: {fileID: 2100000, guid: d0d21d4e1bfde9541bf9b3e5ba6e5f28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mouun's Moon
+    second: {fileID: 2100000, guid: 3cc3904d114c4ce4b94960c432e3abdb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Narukami
+    second: {fileID: 2100000, guid: 705ee3302a2656949a655dfd7e4fa87b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Norse
+    second: {fileID: 2100000, guid: f7c32be49b1a0b143966fe6b00da8a16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Old Merc's Pal.001
+    second: {fileID: 2100000, guid: 9ffe01bd2d0a915458e146f3c7c76085, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Polar Star
+    second: {fileID: 2100000, guid: 00248fcb8e1335641ad70e1271f79368, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Predator
+    second: {fileID: 2100000, guid: 84beb521c105da14f8c83cc0180f40ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Primordial Jade Cutter
+    second: {fileID: 2100000, guid: ad36ade4cc58a7d4d9cfb1461fb923ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Primordial Jade Winged-Spear
+    second: {fileID: 2100000, guid: cb1e4c6e0ddd78742b334271136d884a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prototype Archaic.001
+    second: {fileID: 2100000, guid: 189b02ec565e79a469add1087a44e510, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prototype Crescent
+    second: {fileID: 2100000, guid: c650114078694ef45978f6fbfe36b172, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prototype Grudge
+    second: {fileID: 2100000, guid: 81066683dd180dd418f25df3860970bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prototype Rancour
+    second: {fileID: 2100000, guid: 9e2736dc9fd647449bf6cdc065318578, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Quartz.001
+    second: {fileID: 2100000, guid: 19378cddbd514cd46b13eeb5f41f702c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rainslasher.001
+    second: {fileID: 2100000, guid: e5d36facaa2880c418cbaa0a29f7e804, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Raven Bow
+    second: {fileID: 2100000, guid: a66521056c51edf478b72779327e7749, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Recurve Bow
+    second: {fileID: 2100000, guid: 42bc6cb05b7ebd94ca8c5c419ea51631, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Redhorn Stonethresher.001
+    second: {fileID: 2100000, guid: be41b9e3e4a34024282dd1b8e9f522f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Regicide
+    second: {fileID: 2100000, guid: 5f80b1cee21bc6f4187ba0f2ca457b1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Royal Bow
+    second: {fileID: 2100000, guid: ed515f4fe65489a478f81f1bf5cccfdb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Royal Greatsword.001
+    second: {fileID: 2100000, guid: bbb59a4036c352044a3988b9fadb91ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Royal Longsword
+    second: {fileID: 2100000, guid: d94c9099ee404f8419aa7e313856aafd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Royal Spear
+    second: {fileID: 2100000, guid: ce52d9d4294611b4a9064393610e0eda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rust
+    second: {fileID: 2100000, guid: bf582b75cb2af6341a1fa53a453c1137, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sacrificial Bow
+    second: {fileID: 2100000, guid: 18528347767b79d429051f06a7a24e9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sacrificial Greatsword.001
+    second: {fileID: 2100000, guid: bc50468943fb96e4681a940ca362ccd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sacrificial Sword
+    second: {fileID: 2100000, guid: 35e0cf54dc04847489e9ff186f9a1faa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Seasoned Hunter's Bow
+    second: {fileID: 2100000, guid: ba006b2308118834d9d23d7efa83d496, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Serpent Spine.001
+    second: {fileID: 2100000, guid: 1df6d70dedad1c04b9758cae3523cdf3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sharpshooter's Oath
+    second: {fileID: 2100000, guid: f2655d6e9ed8e344fb4e112b3b2ad116, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Silver Sword
+    second: {fileID: 2100000, guid: 6a3f2900591ba1a43a1fb13483bf75d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skyrider Greatsword.001
+    second: {fileID: 2100000, guid: 3f3406772f2301b4e945950003909db4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skyrider Sword
+    second: {fileID: 2100000, guid: 98134a74973666c4287f80411a6ff8d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skyward Blade
+    second: {fileID: 2100000, guid: fab73bd3da189734dbb41ac39aae4b92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skyward Harp
+    second: {fileID: 2100000, guid: 3bddced044369c14ba9d698bb9e55687, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skyward Pride.001
+    second: {fileID: 2100000, guid: f8dfd4e343df0534c8187550ff3fe5b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skyward Spine
+    second: {fileID: 2100000, guid: 4f345a69b0116124eba38d1b985021fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Slingshot
+    second: {fileID: 2100000, guid: 38296ea8b6aae394cb319753c9d4ff70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow-tombed Starsilver.001
+    second: {fileID: 2100000, guid: 85478c7440b2e344199d08c8d9808b13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Song of Broken Pines.001
+    second: {fileID: 2100000, guid: 98c2c59d367cb694f8892a228c3aa24d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Staff of Homa
+    second: {fileID: 2100000, guid: c33b0822df1cbda4cab88d408284f68a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Star Sword
+    second: {fileID: 2100000, guid: 118bf11bc9504244b993cbf8a02485e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Summit Shaper
+    second: {fileID: 2100000, guid: 3d91dc335ef8ec146809b75f6603dd96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sword of Descension_
+    second: {fileID: 2100000, guid: 2cb5e87e2fee6d04b97f620e64dbd867, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: The Alley Flash
+    second: {fileID: 2100000, guid: 3db16fb2c6a221e41864bffde2873129, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: The Bell.001
+    second: {fileID: 2100000, guid: 292b58dac24599b429ef3b7b9fb364b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: The Black Sword
+    second: {fileID: 2100000, guid: 3d2845b29e61db746aeeaf64472e2903, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: The Catch
+    second: {fileID: 2100000, guid: 806548a3c28ebe4499282b5ebe02cd3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: The Flute
+    second: {fileID: 2100000, guid: a5c7288b150dfd74fa3aaa9bad4cb231, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: The Stringless
+    second: {fileID: 2100000, guid: 6462071426331094290e74360f42f2f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: The Unforged.001
+    second: {fileID: 2100000, guid: c70988556a570964d9efcf74581a7cc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: The Viridescent Hunt
+    second: {fileID: 2100000, guid: c93bba1e791f9494a956c999092a823a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Thundering Pulse
+    second: {fileID: 2100000, guid: 2d287c249c558034c9d3c5727cd286fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Transcend base.001
+    second: {fileID: 2100000, guid: ca24deb52e6b05e4a844198f751eeb7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Traveler's Handy Sword
+    second: {fileID: 2100000, guid: a67a4ce02e1ba5042bbebb1e0b444a3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Waster Greatsword.001
+    second: {fileID: 2100000, guid: 562e358db274d45469ceb54bccc7fcb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wavebreaker's fin
+    second: {fileID: 2100000, guid: e92eff7e1a85298409a5d987821ba29b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White Iron Greatsword.001
+    second: {fileID: 2100000, guid: 1b7d7e4dd4fcf664ea57192341183a38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White Tassel
+    second: {fileID: 2100000, guid: c1adedec60befa14b8248275725b37c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Whiteblind.001
+    second: {fileID: 2100000, guid: ff111ded3574f3c419714e1b0bf4e72c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Windblume Ode
+    second: {fileID: 2100000, guid: fd25692101d22b84a9193d3051e5b7b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wolf's Gravestone.001
+    second: {fileID: 2100000, guid: efb2096f93e398447a3d0bc35d7088ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wooden
+    second: {fileID: 2100000, guid: 3f6092eb152bb614498c84e5f18247af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: acc
+    second: {fileID: 2100000, guid: 2c90958fba6e4ef4186473a9e2a3fb8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: acc 1
+    second: {fileID: 2100000, guid: df79e779af337e24895a5322186805d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: acc 1.001
+    second: {fileID: 2100000, guid: 6f965536c7ff1ee4abe881e795db3717, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: acc 1.002
+    second: {fileID: 2100000, guid: 99025b09352e5384da9e99cf6a91d73a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: acc 1.003
+    second: {fileID: 2100000, guid: e96a067102ed3d4498aab5c86840bdf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: acc 2.002
+    second: {fileID: 2100000, guid: 7a137df0080e4f5488fee090fb5327ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: acc 2.003
+    second: {fileID: 2100000, guid: 4bef37caaf852454281f525ece9ba807, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: acc base
+    second: {fileID: 2100000, guid: 20f7eb790621d29449782468247455e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: acc.001
+    second: {fileID: 2100000, guid: 7e9c5ae2f9d25bd4b9c3520443150da2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: acc.002
+    second: {fileID: 2100000, guid: fc82f14b1f448614689f42a5e33af9e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: acc.003
+    second: {fileID: 2100000, guid: bf373d8cd358b204c88f91c419838431, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: acc.004
+    second: {fileID: 2100000, guid: 9eaf7d03cc9fe7845b38c4409d0a1595, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: acc.005
+    second: {fileID: 2100000, guid: 9f3043d5118c6f54ea87bb9056a3b35e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: acc.006
+    second: {fileID: 2100000, guid: 5462b8058ef142a4a9234cd7a528e8bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gem.001
+    second: {fileID: 2100000, guid: 04a6f97205dde22438b9ae1f6b54cdcb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hour hand.001
+    second: {fileID: 2100000, guid: 6e92f4109d9578f49a70aaaeb17de3fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: main.001
+    second: {fileID: 2100000, guid: 45ebddf042b2fd847b123e27734b90fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minute hand.001
+    second: {fileID: 2100000, guid: 162e2805d9638a74dacb4cdb57281f90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ring
+    second: {fileID: 2100000, guid: 293aff02b42a2b440a10ec71d7624c0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ring 1
+    second: {fileID: 2100000, guid: 5d1e763a975051040b0ec852bb5e8615, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ring 1.001
+    second: {fileID: 2100000, guid: 4a9193c880a832b44a8817dbaef7f32d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ring 1.002
+    second: {fileID: 2100000, guid: 8b1333603a7b40d4dacf497874cd73be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ring 1.003
+    second: {fileID: 2100000, guid: f8c5fa35d9b8c7043be532e4802f10c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ring 2
+    second: {fileID: 2100000, guid: cd9652807a67a7749907d9c85f15f49e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ring 2.001
+    second: {fileID: 2100000, guid: 62757ba7144c7c247add590266a13fc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ring 2.002
+    second: {fileID: 2100000, guid: 09df8b7d9b5c1f646b8b14c6d0f91f79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ring 2.003
+    second: {fileID: 2100000, guid: 3bf4fd827ca1355478977dde393b7b0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ring.001
+    second: {fileID: 2100000, guid: 70ffcf3a2c6be6843b9e1473a2d1f64c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ring.002
+    second: {fileID: 2100000, guid: 253785f51bc5fc04c8be5c42674ba815, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ring.003
+    second: {fileID: 2100000, guid: 9c2d753405bfb3f46add882777300002, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ring.004
+    second: {fileID: 2100000, guid: 64c40d724a71b274b8608ba149359289, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
